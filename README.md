@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi 👋, I'm CarlosiLevirue
+## 🤖 Machine Learning Engineer | NLP & LLM Agent Developer
+> Co-founder @iqlusioninc, formerly @square. Cryptography and infrastructure engineer.
 
-<!--
-**CarlosiLevirue/CarlosiLevirue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📌 About Me
+- 🧠 Main tech stack: **PyTorch** for LLM, NLP, ranking & recommendation model development
+- 🛠️ Auxiliary: Java, Python, SQL, ETL, data cleaning & statistical analysis
+- 🤖 Building LLM Agent, RAG pipeline, re-ranking & retrieval toolkit
+- 📊 Background: Data research, statistical analysis, large-scale log processing & metric dashboard
+- 🎯 Interest: Retrieval-Augmented Generation, personalized recommendation, AI agent workflow
 
-Here are some ideas to get you started:
+### 🧰 Tech Stack
+#### 🚀 ML / AI
+`PyTorch` `LLM` `NLP` `RAG` `Agent` `Retrieval` `Re-ranking` `Recommendation`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 📦 Data & Engineering
+`Python` `SQL` `ETL` `Data Cleaning` `Statistical Analysis` `Pandas` `NumPy`
+
+#### 💻 Other
+`Java` `Git` `GitHub Actions`
+
+### 📈 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=CarlosiLevirue&show_icons=true&theme=tokyonight" alt="stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosiLevirue&layout=compact&theme=tokyonight" alt="languages"/>
+</p>
+
+### 📫 Contact
+- GitHub: https://github.com/CarlosiLevirue
